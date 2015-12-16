@@ -1,7 +1,7 @@
 name: terra-test
 favicon: null
-layout_spectrum: 0.19721915386617184
-typography_spectrum: 0.536989256972447
+layout_spectrum: 0.31308
+typography_spectrum: 0.8206
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.4240041372831911
-  lightness: 0.8281204144004732
-  saturation: 0.16751570999622345
+  brandStrength: 0.125
+  lightness: 0.875
+  saturation: 0.125
   rhythmicContrast: 0.15916289458982646
 purpose: []
